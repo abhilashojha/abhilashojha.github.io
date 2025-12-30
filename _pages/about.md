@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Abhilash Ojha**, a PhD student in Mechanical Engineering with research spanning cryopreservation, molecular dynamics simulations, and nanomaterials.  
+Hi, I’m **Abhilash Ojha**, PhD candidate at University of Minnesota, Department of Mechanical Engineering. My research focuses on cryopreservation, molecular dynamics simulations.  
 
 Previously, I worked as a Scientist at the **Indian Space Research Organisation (ISRO)**, where I designed and tested carbon fiber antenna reflectors and carried out thermal experiments.  
 
