@@ -1,6 +1,6 @@
 ---
 title: "Nanoparticle Growth and Sintering"
-excerpt: "Molecular dynamics simulations of nanoparticle growth and sintering processes with gas-phase interactions<br/><img src='/images/Sintering_with_gas.svg' style='max-width: 100%; height: auto;'>"
+
 collection: portfolio
 ---
 
