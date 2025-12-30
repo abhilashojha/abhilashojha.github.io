@@ -1,12 +1,12 @@
 ---
 title: "Nanoparticle Growth and Sintering"
-
 collection: portfolio
+share: false
 ---
 
-<figure style="text-align: center;">
-  <img src="/images/Sintering_with_gas.svg" alt="Sintering with gas" style="max-width: 100%; height: auto;">
-  <figcaption style="text-align: center; margin-top: 10px; font-style: italic;">
+<figure style="text-align: center; margin: 0 auto; display: block;">
+  <img src="/images/Sintering_with_gas.svg" alt="Sintering with gas" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center; margin-top: 10px; font-style: italic; display: block; width: 100%;">
     Sintering process with gas-phase interactions in nanoparticle systems
   </figcaption>
 </figure>
