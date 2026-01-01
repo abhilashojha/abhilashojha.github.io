@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Talks & Teaching"
+permalink: /talks-teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+<h2 class="archive__subtitle">Talks and Presentations</h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2 class="archive__subtitle">Teaching</h2>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+

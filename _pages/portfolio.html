@@ -7,6 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.archive__item-excerpt figure,
+.archive__item figure {
+  max-width: 100%;
+  margin: 20px auto;
+}
+
+.archive__item-excerpt figure img,
+.archive__item figure img {
+  max-width: 100%;
+  height: auto !important;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  width: auto;
+}
+
+.archive__item-excerpt img {
+  max-width: 100%;
+  height: auto !important;
+  width: auto;
+}
+</style>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
