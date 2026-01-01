@@ -22,7 +22,7 @@ repository               : "abhilashojha/abhilashojha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "abhilash_headshot.jpg"
   name             : "Abhilash Ojha"
   pronouns         : "He/Him"
   bio              : "Researcher at UMN; Gas Phase Kinetics/Molecular Dynamics, Cryopreservation, Rotating Thermal Turbulence-CFD"
